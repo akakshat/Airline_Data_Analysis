@@ -1,23 +1,20 @@
-Airline_Data_Analysis
-=========================
+# Airline_Data_Analysis
 
-Business Problem
-=================
+
+# Business Problem
+================
  
 Our company operates a diverse fleet of aircraft ranging from small business jets to medium-sized machines. We have been providing high-quality air transportation services to our clients for several years, and our primary focus is to ensure a safe, comfortable, and convenient journey for our passengers. However, we are currently facing challenges due to several factors such as stricter environmental regulations, higher flight taxes, increased interest rates, rising fuel prices, and a tight labour market resulting in increased labour costs. As a result, the company's profitability is under pressure, and they are seeking ways to address this issue. To tackle this challenge, they are looking to conduct an analysis of their database to find ways to increase their occupancy rate, which can help boost the average profit earned per seat. 
- 
-![Alt text](image-3.png)
- 
- 
-Main Challenges
+
+# Main Challenges
 ================
  
 1. Stricter environmental regulations: The demand on the airlines industry to decrease its carbon footprint is growing, which has resulted in more stringent environmental laws that raise operating costs and restrict expansion potential.
 2. Higher flight taxes: To solve environmental issues and increase money, governments all around the world are taxiing aircraft more heavily, which raises the cost of flying and decreases demand.
 3. Tight labour market resulting in increased labour costs: The lack of trained people in the aviation sector has increased labour costs and increased turnover rates.
  
- 
-Objectives
+
+# Objectives
 ================
  
 1. Increase occupancy rate: By increasing the occupancy rate, we can boost the average profit earned per seat and mitigate the impact of the challenges we're facing.
@@ -26,7 +23,7 @@ Objectives
  
 The end goal of this task would be to identify opportunities to increase the occupancy rate on low-performing flights, which can ultimately lead to increased profitability for the airline.
  
-Basic Analysis
+# Basic Analysis
 ================
  
 The basic analysis of data provides insights into the number of planes with more than 100 seats, how the number of tickets booked and total amount earned changed over time, and the average fare for each aircraft with different fare conditions. These findings will be useful in developing strategies to increase occupancy rates and optimize pricing for each aircraft. Table 1 shows the aircraft with more than 100 seats and the actual count of the seats.
@@ -46,7 +43,7 @@ We were able to generate a bar graph to graphically compare the data after we co
 ![Alt text](image-7.png)
 Figure 3 
  
-Analysing occupancy rate
+# Analysing occupancy rate
 ==========================
  
 Airlines must thoroughly analyse their revenue streams in order to maximize profitability. The overall income per year and average revenue per ticket for each aircraft are important metrics to consider. Airlines may use this information to determine which aircraft types and itineraries generate the most income and alter their operations appropriately. This research can also assist in identifying potential for pricing optimization and allocating resources to more profitable routes. The below figure 4 shows the total revenue, total tickets and average revenue made per ticket for  each aircraft. The aircraft with the highest total revenue is SU9 and from the figure 3 it can be seen that the price of the business class and economy class is the lowest in this aircraft. This can be the reason that most of the people bought this aircraft ticket as its cost is less compared to others. The aircraft with least total revenue is CN1, and the possible reason behind this is it only offers economy class with very least price and it might be because of its poor conditions or less facilities.
@@ -66,7 +63,7 @@ revenue while delivering greater value and service to consumers by optimizing pr
 ![Alt text](image-10.png)
 Figure 6
  
-Conclusion
+# Conclusion
 ================
  
 To summarize, analysing revenue data such as total revenue per year, average revenue per ticket, and average occupancy per aircraft is critical for airlines seeking to maximize profitability. Airlines can find areas for improvement and modify their pricing and route plans as a result of assessing these indicators. A greater occupancy rate is one important feature that can enhance profitability since it allows airlines to maximize revenue while minimizing costs associated with vacant seats. The airline should revise the price for each aircraft as the lower price and high price is also the factor that people are not buying tickets from those aircrafts. They should decide the reasonable price according to the condition and facility of the aircraft and it should not be very cheap or high. 
